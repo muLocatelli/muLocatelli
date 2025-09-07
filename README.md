@@ -14,6 +14,6 @@ Atualmente estou cursando Ciências da Computação na Universidade Católica Do
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/murilo-locatelli-gonçalves-59379a323 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https:www.linkedin.com/in/murilolocatelli-59379a323 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
