@@ -1,6 +1,13 @@
-## Olá, Eu sou o Murilo Locatelli 👋
+## I'am Murilo Locatelli 👋
 
-Atualmente estou cursando Ciências da Computação na Universidade Católica Dom Bosco - UCDB
+-  Computer Science student @ UCDB  
+-  Campo Grande, MS – Brazil  
+-  Currently interning in:  
+  - **Trainee** at Sicredi Campo Grande/MS  
+-  Looking for internship opportunities in technology  
+
+---
+
 
 <div style="display: inline_block"><br>
 
@@ -19,7 +26,7 @@ Atualmente estou cursando Ciências da Computação na Universidade Católica Do
   
 </div>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -38,6 +45,21 @@ Atualmente estou cursando Ciências da Computação na Universidade Católica Do
   />
 
 </p>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+#
 
 ### 🤖COMMITS
 
